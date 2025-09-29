@@ -1,0 +1,7 @@
+D:\QLDA\PP-PT-PMHDT\Tuan 5\Lab1\Bai 1\bin\Debug\Bai 1.exe.config
+D:\QLDA\PP-PT-PMHDT\Tuan 5\Lab1\Bai 1\bin\Debug\Bai 1.exe
+D:\QLDA\PP-PT-PMHDT\Tuan 5\Lab1\Bai 1\bin\Debug\Bai 1.pdb
+D:\QLDA\PP-PT-PMHDT\Tuan 5\Lab1\Bai 1\obj\Debug\Bai 1.csproj.AssemblyReference.cache
+D:\QLDA\PP-PT-PMHDT\Tuan 5\Lab1\Bai 1\obj\Debug\Bai 1.csproj.CoreCompileInputs.cache
+D:\QLDA\PP-PT-PMHDT\Tuan 5\Lab1\Bai 1\obj\Debug\Bai 1.exe
+D:\QLDA\PP-PT-PMHDT\Tuan 5\Lab1\Bai 1\obj\Debug\Bai 1.pdb
