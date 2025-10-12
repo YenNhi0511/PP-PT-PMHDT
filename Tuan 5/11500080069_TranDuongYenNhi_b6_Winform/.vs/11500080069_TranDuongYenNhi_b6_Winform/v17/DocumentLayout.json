@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QLDA\\PP-PT-PMHDT\\Tuan 5\\11500080069_TranDuongYenNhi_b6_Winform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB1FEC7-868C-4F00-8DA8-DD688D6B32D3}|11500080069_TranDuongYenNhi_b6_Winform\\11500080069_TranDuongYenNhi_b6_Winform.csproj|d:\\qlda\\pp-pt-pmhdt\\tuan 5\\11500080069_tranduongyennhi_b6_winform\\11500080069_tranduongyennhi_b6_winform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDB1FEC7-868C-4F00-8DA8-DD688D6B32D3}|11500080069_TranDuongYenNhi_b6_Winform\\11500080069_TranDuongYenNhi_b6_Winform.csproj|solutionrelative:11500080069_tranduongyennhi_b6_winform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB1FEC7-868C-4F00-8DA8-DD688D6B32D3}|11500080069_TranDuongYenNhi_b6_Winform\\11500080069_TranDuongYenNhi_b6_Winform.csproj|d:\\qlda\\pp-pt-pmhdt\\tuan 5\\11500080069_tranduongyennhi_b6_winform\\11500080069_tranduongyennhi_b6_winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDB1FEC7-868C-4F00-8DA8-DD688D6B32D3}|11500080069_TranDuongYenNhi_b6_Winform\\11500080069_TranDuongYenNhi_b6_Winform.csproj|solutionrelative:11500080069_tranduongyennhi_b6_winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB1FEC7-868C-4F00-8DA8-DD688D6B32D3}|11500080069_TranDuongYenNhi_b6_Winform\\11500080069_TranDuongYenNhi_b6_Winform.csproj|D:\\QLDA\\PP-PT-PMHDT\\Tuan 5\\11500080069_TranDuongYenNhi_b6_Winform\\11500080069_tranduongyennhi_b6_winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB1FEC7-868C-4F00-8DA8-DD688D6B32D3}|11500080069_TranDuongYenNhi_b6_Winform\\11500080069_TranDuongYenNhi_b6_Winform.csproj|solutionrelative:11500080069_tranduongyennhi_b6_winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB1FEC7-868C-4F00-8DA8-DD688D6B32D3}|11500080069_TranDuongYenNhi_b6_Winform\\11500080069_TranDuongYenNhi_b6_Winform.csproj|D:\\QLDA\\PP-PT-PMHDT\\Tuan 5\\11500080069_TranDuongYenNhi_b6_Winform\\11500080069_tranduongyennhi_b6_winform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB1FEC7-868C-4F00-8DA8-DD688D6B32D3}|11500080069_TranDuongYenNhi_b6_Winform\\11500080069_TranDuongYenNhi_b6_Winform.csproj|solutionrelative:11500080069_tranduongyennhi_b6_winform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\QLDA\\PP-PT-PMHDT\\Tuan 5\\11500080069_TranDuongYenNhi_b6_Winform\\11500080069_TranDuongYenNhi_b6_Winform\\Form2.cs",
+              "RelativeDocumentMoniker": "11500080069_TranDuongYenNhi_b6_Winform\\Form2.cs",
+              "ToolTip": "D:\\QLDA\\PP-PT-PMHDT\\Tuan 5\\11500080069_TranDuongYenNhi_b6_Winform\\11500080069_TranDuongYenNhi_b6_Winform\\Form2.cs [Design]",
+              "RelativeToolTip": "11500080069_TranDuongYenNhi_b6_Winform\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T01:46:28.102Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\QLDA\\PP-PT-PMHDT\\Tuan 5\\11500080069_TranDuongYenNhi_b6_Winform\\11500080069_TranDuongYenNhi_b6_Winform\\Form1.cs",
+              "RelativeDocumentMoniker": "11500080069_TranDuongYenNhi_b6_Winform\\Form1.cs",
+              "ToolTip": "D:\\QLDA\\PP-PT-PMHDT\\Tuan 5\\11500080069_TranDuongYenNhi_b6_Winform\\11500080069_TranDuongYenNhi_b6_Winform\\Form1.cs [Design]",
+              "RelativeToolTip": "11500080069_TranDuongYenNhi_b6_Winform\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T23:56:52.89Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\QLDA\\PP-PT-PMHDT\\Tuan 5\\11500080069_TranDuongYenNhi_b6_Winform\\11500080069_TranDuongYenNhi_b6_Winform\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "11500080069_TranDuongYenNhi_b6_Winform\\Form1.Designer.cs",
+              "ToolTip": "D:\\QLDA\\PP-PT-PMHDT\\Tuan 5\\11500080069_TranDuongYenNhi_b6_Winform\\11500080069_TranDuongYenNhi_b6_Winform\\Form1.Designer.cs",
+              "RelativeToolTip": "11500080069_TranDuongYenNhi_b6_Winform\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T01:09:04.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\QLDA\\PP-PT-PMHDT\\Tuan 5\\11500080069_TranDuongYenNhi_b6_Winform\\11500080069_TranDuongYenNhi_b6_Winform\\Form1.cs",
+              "RelativeDocumentMoniker": "11500080069_TranDuongYenNhi_b6_Winform\\Form1.cs",
+              "ToolTip": "D:\\QLDA\\PP-PT-PMHDT\\Tuan 5\\11500080069_TranDuongYenNhi_b6_Winform\\11500080069_TranDuongYenNhi_b6_Winform\\Form1.cs",
+              "RelativeToolTip": "11500080069_TranDuongYenNhi_b6_Winform\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T23:58:56.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
