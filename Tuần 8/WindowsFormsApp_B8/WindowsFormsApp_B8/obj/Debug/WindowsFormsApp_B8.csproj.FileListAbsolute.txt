@@ -1,0 +1,14 @@
+D:\QLDA\PP-PT-PMHDT\Tuần 8\WindowsFormsApp_B8\WindowsFormsApp_B8\bin\Debug\Database1.mdf
+D:\QLDA\PP-PT-PMHDT\Tuần 8\WindowsFormsApp_B8\WindowsFormsApp_B8\bin\Debug\Database1_log.ldf
+D:\QLDA\PP-PT-PMHDT\Tuần 8\WindowsFormsApp_B8\WindowsFormsApp_B8\bin\Debug\DB1.mdf
+D:\QLDA\PP-PT-PMHDT\Tuần 8\WindowsFormsApp_B8\WindowsFormsApp_B8\bin\Debug\DB1_log.ldf
+D:\QLDA\PP-PT-PMHDT\Tuần 8\WindowsFormsApp_B8\WindowsFormsApp_B8\bin\Debug\WindowsFormsApp_B8.exe.config
+D:\QLDA\PP-PT-PMHDT\Tuần 8\WindowsFormsApp_B8\WindowsFormsApp_B8\bin\Debug\WindowsFormsApp_B8.exe
+D:\QLDA\PP-PT-PMHDT\Tuần 8\WindowsFormsApp_B8\WindowsFormsApp_B8\bin\Debug\WindowsFormsApp_B8.pdb
+D:\QLDA\PP-PT-PMHDT\Tuần 8\WindowsFormsApp_B8\WindowsFormsApp_B8\obj\Debug\WindowsFormsApp_B8.csproj.AssemblyReference.cache
+D:\QLDA\PP-PT-PMHDT\Tuần 8\WindowsFormsApp_B8\WindowsFormsApp_B8\obj\Debug\WindowsFormsApp_B8.Form1.resources
+D:\QLDA\PP-PT-PMHDT\Tuần 8\WindowsFormsApp_B8\WindowsFormsApp_B8\obj\Debug\WindowsFormsApp_B8.Properties.Resources.resources
+D:\QLDA\PP-PT-PMHDT\Tuần 8\WindowsFormsApp_B8\WindowsFormsApp_B8\obj\Debug\WindowsFormsApp_B8.csproj.GenerateResource.cache
+D:\QLDA\PP-PT-PMHDT\Tuần 8\WindowsFormsApp_B8\WindowsFormsApp_B8\obj\Debug\WindowsFormsApp_B8.csproj.CoreCompileInputs.cache
+D:\QLDA\PP-PT-PMHDT\Tuần 8\WindowsFormsApp_B8\WindowsFormsApp_B8\obj\Debug\WindowsFormsApp_B8.exe
+D:\QLDA\PP-PT-PMHDT\Tuần 8\WindowsFormsApp_B8\WindowsFormsApp_B8\obj\Debug\WindowsFormsApp_B8.pdb
