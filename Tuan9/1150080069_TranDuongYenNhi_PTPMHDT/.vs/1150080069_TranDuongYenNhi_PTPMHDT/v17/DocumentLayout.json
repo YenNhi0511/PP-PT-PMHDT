@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QLDA\\PP-PT-PMHDT\\Tuan9\\1150080069_TranDuongYenNhi_PTPMHDT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D96069A-189B-44DE-86FD-CF0BA2D57C63}|1150080069_TranDuongYenNhi_PTPMHDT\\1150080069_TranDuongYenNhi_PTPMHDT.csproj|d:\\qlda\\pp-pt-pmhdt\\tuan9\\1150080069_tranduongyennhi_ptpmhdt\\1150080069_tranduongyennhi_ptpmhdt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D96069A-189B-44DE-86FD-CF0BA2D57C63}|1150080069_TranDuongYenNhi_PTPMHDT\\1150080069_TranDuongYenNhi_PTPMHDT.csproj|solutionrelative:1150080069_tranduongyennhi_ptpmhdt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\QLDA\\PP-PT-PMHDT\\Tuan9\\1150080069_TranDuongYenNhi_PTPMHDT\\1150080069_TranDuongYenNhi_PTPMHDT\\Form1.cs",
+              "RelativeDocumentMoniker": "1150080069_TranDuongYenNhi_PTPMHDT\\Form1.cs",
+              "ToolTip": "D:\\QLDA\\PP-PT-PMHDT\\Tuan9\\1150080069_TranDuongYenNhi_PTPMHDT\\1150080069_TranDuongYenNhi_PTPMHDT\\Form1.cs [Design]",
+              "RelativeToolTip": "1150080069_TranDuongYenNhi_PTPMHDT\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T00:31:20.953Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
