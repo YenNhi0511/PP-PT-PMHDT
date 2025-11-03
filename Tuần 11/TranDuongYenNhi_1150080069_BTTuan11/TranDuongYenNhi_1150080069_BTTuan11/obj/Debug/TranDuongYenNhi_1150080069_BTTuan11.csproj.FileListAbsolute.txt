@@ -1,0 +1,13 @@
+D:\QLDA\PP-PT-PMHDT\Tuần 11\TranDuongYenNhi_1150080069_BTTuan11\TranDuongYenNhi_1150080069_BTTuan11\bin\Debug\TranDuongYenNhi_1150080069_BTTuan11.exe.config
+D:\QLDA\PP-PT-PMHDT\Tuần 11\TranDuongYenNhi_1150080069_BTTuan11\TranDuongYenNhi_1150080069_BTTuan11\bin\Debug\TranDuongYenNhi_1150080069_BTTuan11.exe
+D:\QLDA\PP-PT-PMHDT\Tuần 11\TranDuongYenNhi_1150080069_BTTuan11\TranDuongYenNhi_1150080069_BTTuan11\bin\Debug\TranDuongYenNhi_1150080069_BTTuan11.pdb
+D:\QLDA\PP-PT-PMHDT\Tuần 11\TranDuongYenNhi_1150080069_BTTuan11\TranDuongYenNhi_1150080069_BTTuan11\obj\Debug\TranDuongYenNhi_1150080069_BTTuan11.csproj.AssemblyReference.cache
+D:\QLDA\PP-PT-PMHDT\Tuần 11\TranDuongYenNhi_1150080069_BTTuan11\TranDuongYenNhi_1150080069_BTTuan11\obj\Debug\TranDuongYenNhi_1150080069_BTTuan11.Form1.resources
+D:\QLDA\PP-PT-PMHDT\Tuần 11\TranDuongYenNhi_1150080069_BTTuan11\TranDuongYenNhi_1150080069_BTTuan11\obj\Debug\TranDuongYenNhi_1150080069_BTTuan11.Properties.Resources.resources
+D:\QLDA\PP-PT-PMHDT\Tuần 11\TranDuongYenNhi_1150080069_BTTuan11\TranDuongYenNhi_1150080069_BTTuan11\obj\Debug\TranDuongYenNhi_1150080069_BTTuan11.csproj.GenerateResource.cache
+D:\QLDA\PP-PT-PMHDT\Tuần 11\TranDuongYenNhi_1150080069_BTTuan11\TranDuongYenNhi_1150080069_BTTuan11\obj\Debug\TranDuongYenNhi_1150080069_BTTuan11.csproj.CoreCompileInputs.cache
+D:\QLDA\PP-PT-PMHDT\Tuần 11\TranDuongYenNhi_1150080069_BTTuan11\TranDuongYenNhi_1150080069_BTTuan11\obj\Debug\TranDuongYenNhi_1150080069_BTTuan11.exe
+D:\QLDA\PP-PT-PMHDT\Tuần 11\TranDuongYenNhi_1150080069_BTTuan11\TranDuongYenNhi_1150080069_BTTuan11\obj\Debug\TranDuongYenNhi_1150080069_BTTuan11.pdb
+D:\QLDA\PP-PT-PMHDT\Tuần 11\TranDuongYenNhi_1150080069_BTTuan11\TranDuongYenNhi_1150080069_BTTuan11\obj\Debug\TranDuongYenNhi_1150080069_BTTuan11.Form2.resources
+D:\QLDA\PP-PT-PMHDT\Tuần 11\TranDuongYenNhi_1150080069_BTTuan11\TranDuongYenNhi_1150080069_BTTuan11\obj\Debug\TranDuongYenNhi_1150080069_BTTuan11.Form3.resources
+D:\QLDA\PP-PT-PMHDT\Tuần 11\TranDuongYenNhi_1150080069_BTTuan11\TranDuongYenNhi_1150080069_BTTuan11\obj\Debug\TranDuongYenNhi_1150080069_BTTuan11.Form4.resources
